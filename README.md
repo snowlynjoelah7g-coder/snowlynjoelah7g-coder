@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Snowlyn Joelah S 👋
 
-<!--
-**snowlynjoelah7g-coder/snowlynjoelah7g-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **First-Year CSE Student** at **St. Joseph's College of Engineering**
+💻 Exploring the world of Computer Science
+🌱 Learning, coding, and improving every day
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Pursuing **Computer Science and Engineering**
+* 🏫 **St. Joseph's College of Engineering**
+* 🌱 Currently exploring programming and computer science fundamentals
+* 💡 Interested in learning new technologies
+* 🧠 Working on improving my problem-solving skills
+* 🚀 Just getting started with my coding journey
+
+## 📚 Currently Learning
+
+* C Programming
+* Python
+* Data Structures & Algorithms
+* Git & GitHub
+* Problem Solving
+
+## 🎯 Goals
+
+* Strengthen my programming fundamentals
+* Learn new technologies
+* Improve my coding and problem-solving skills
+* Build a strong foundation in Computer Science
+* Keep learning and growing 🚀
+
+---
+
+✨ *Learning something new every day.*
+
+Thanks for visiting my profile! ⭐
